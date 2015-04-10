@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Platform_Dissapearing.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Platform_Tilting.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\turretScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\bulletScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\sceneController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\trackingScope.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\spike.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\textStart.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\playerMovementDraft.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Platform_MovingX.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Platform_Dissapearing.cs" Line="43" Column="2" />
+      <File FileName="Assets\Scripts\morphPlatform.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\floorDelete.cs" Line="3" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
